@@ -32,7 +32,7 @@ int main(int argc, char *argv[]) {
             buffer[bytes_read] = '\0';
 
             // print het bestand uit
-            printf("%s", buffer);
+            printf("%s\n", buffer);
 
             // closed de memmory van malloc en closed het bestand
             free(buffer);
