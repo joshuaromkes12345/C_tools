@@ -1,3 +1,5 @@
+# /* WERKT NIET OP WINDOWS */
+
 # Instructie COP (commandline output printer)
 
 Compile het programma. ``gcc main.c -o main.out``
